@@ -3,9 +3,6 @@
   "description": "PUG service",
   "private": true,
   "repository": "fwdcp/pugchamp",
-  "engines": {
-    "node": ">=10.0.0",
-  }
   "dependencies": {
     "bluebird": "^3.4.0",
     "body-parser": "^1.15.1",
